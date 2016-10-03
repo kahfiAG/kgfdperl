@@ -8,14 +8,14 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 
 system('clear');
 print "                               Version 1.00 \n";
-print "\033[1;32md88888b  .d8b.   .o88b. d88888b d8888b..d88b.   db   dD                  \n";
-print "88'     d8' `8b d8P  Y8 88'     88  `8D .8P   Y8.8P   y8  88 ,8P'                 \n";
-print "88ooo   88ooo88 8P      88ooooo 88oooY' 88    8888    88  88,8P                   \n";
-print "88~~~   88~~~88 8b      88~~~~~ 88~~~b. 88    8888    88  88`8b   	         \n";
-print "88      88   88 Y8b  d8 88.     88   8D `8b  d8' 8b  d8'	 	 		 \n";
-print "YP      YP   YP  `Y88P' Y88888P Y8888P'  `Y88P'   Y88P	 YP   YD                 \n";
+print " ______      __   _____               ____       __  ___
+  / ____/_  __/ /_ |__  /______      __/ __ \_____/  |/  /
+ / /   / / / / __ \ /_ </ ___/ | /| / / / / / ___/ /|_/ / 
+/ /___/ /_/ / /_/ /__/ / /   | |/ |/ / /_/ / /  / /  / /  
+\____/\__, /_.___/____/_/    |__/|__/\____/_/  /_/  /_/   
+     /____/                                               \n";
 print "\n";
-print "					bruteforce                      		 \n";
+print "					facebook bruteforce                      		 \n";
 print "\n";
 print "\033[1;31m          ======================================================\n";
 print "\033[1;37m               Usage: perl $0 Email wordlist.txt\n\n\n\n\n\n\n\n\n";
@@ -35,20 +35,20 @@ open (LIST, $wordlist) || die "\n[-] Can't find/open $wordlist\n";
 
 
 print "                               Version 1.00 \n";
-print "\033[1;32md88888b  .d8b.   .o88b. d88888b d8888b.d88b.    db   dD                  \n";
-print "88'     d8' `8b d8P  Y8 88'     88  `8D .8P  Y8.8P   y8   88 ,8P'                 \n";
-print "88ooo   88ooo88 8P      88ooooo 88oooY' 88    8888    88  88,8P                   \n";
-print "88~~~   88~~~88 8b      88~~~~~ 88~~~b. 88    8888    88  88`8b   	         \n";
-print "88      88   88 Y8b  d8 88.     88   8D `8b  d8' 8b  d8'	 	 		 \n";
-print "YP      YP   YP  `Y88P' Y88888P Y8888P'  `Y88P'   Y88P	 YP   YD                 \n";
+print " ______      __   _____               ____       __  ___
+  / ____/_  __/ /_ |__  /______      __/ __ \_____/  |/  /
+ / /   / / / / __ \ /_ </ ___/ | /| / / / / / ___/ /|_/ / 
+/ /___/ /_/ / /_/ /__/ / /   | |/ |/ / /_/ / /  / /  / /  
+\____/\__, /_.___/____/_/    |__/|__/\____/_/  /_/  /_/   
+     /____/                                               \n";
 print "\n";
-print "					bruteforce                      		 \n";
+print "					facebook bruteforce                      		 \n";
 print "\n";
 
 print "\033[1;31m          ======================================================\n";
 print "\033[1;33m           	developed by Z hacker , modified by team 1            \n";
 print "\033[1;31m         ========================================================\n";
-print "                  team 1 : kahfi,gilang,farhan and madani \n"           ;
+print "\033[1;33m        team 1 : kahfi,gilang,farhan and madani \n"           ;
 print "------------------------------------------------------------------------------\n
 	*disclaimer : software can only be used for educational purpose any illegal\n
 	action will not be the creator's nor the modifier's fault in anyway of use.\n
