@@ -18,7 +18,7 @@ print "\n";
 print "					facebook bruteforce                      		 \n";
 print "\n";
 print "\033[1;31m          ======================================================\n";
-print "\033[1;37m               Usage: perl $0 Email wordlist.txt\n\n\n\n\n\n\n\n\n";
+print "\033[1;37m               Usage: kgfd.pl $0 Email wordlist.txt\n\n\n\n\n\n\n\n\n";
 print "\033[1;31m          ======================================================\n";
 print "\n";
 print "\n";
@@ -46,9 +46,8 @@ print "					facebook bruteforce                      		 \n";
 print "\n";
 
 print "\033[1;31m          ======================================================\n";
-print "\033[1;33m           	developed by Z hacker , modified by team 1            \n";
+print "\033[1;33m           	developed by Z hacker , modified by kahfi            \n";
 print "\033[1;31m         ========================================================\n";
-print "\033[1;33m        team 1 : kahfi,gilang,farhan and madani \n"           ;
 print "------------------------------------------------------------------------------\n
 	*disclaimer : software can only be used for educational purpose any illegal\n
 	action will not be the creator's nor the modifier's fault in anyway of use.\n
